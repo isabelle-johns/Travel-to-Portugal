@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## What does Portugal have to offer for young people?
 
-You can use the [editor on GitHub](https://github.com/isabelle-johns/Travel-to-Portugal/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Portugal, located in South Europe and bordering Spain is a unique country with a variety of activities, heritige sites, historical buildings and spectacular views.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
