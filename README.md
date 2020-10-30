@@ -1,10 +1,10 @@
-## _What does Portugal have to offer?_
+# _What does Portugal have to offer?_
 
 Portugal, located in South Europe and bordering Spain is a unique country with a variety of activities, heritige sites, historical buildings and spectacular views.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### _A perfect spot for young people_
+## _A perfect spot for young people_
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
