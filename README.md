@@ -20,8 +20,8 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 ### _Precautions and warnings before travelling_
-
 Like every other holiday destination, precautions have to be taken into account when visiting somewhere new. Maybe they have traditions and customs you're not familiar with? Better to be safe than sorry.
+
 - 
 
 #### _Support or Contact_
