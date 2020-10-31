@@ -4,15 +4,6 @@ Portugal, located in South Europe and bordering Spain is a unique country with a
 
 ## _A perfect spot for young people_
 
-```markdown
-Syntax highlighted code block
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-
-```
-
 ## _Precautions and warnings before travelling_
 Like every other holiday destination, precautions have to be taken into account when visiting somewhere new. Better to be safe than sorry.
 
