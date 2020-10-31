@@ -1,12 +1,10 @@
 # _What does Portugal have to offer?_
 
-Portugal, located in South Europe and bordering Spain is a unique country with a variety of activities, heritige sites, historical buildings and spectacular views.
+Portugal, located in South Europe and bordering Spain is a unique country with a variety of activities, heritige sites, historical buildings, intangible heritige and spectacular views.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ## _A perfect spot for young people_
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
@@ -18,10 +16,12 @@ Syntax highlighted code block
 ```
 
 ### _Precautions and warnings before travelling_
-Like every other holiday destination, precautions have to be taken into account when visiting somewhere new. Maybe they have traditions and customs you're not familiar with? Better to be safe than sorry.
+Like every other holiday destination, precautions have to be taken into account when visiting somewhere new. Better to be safe than sorry.
 
-- 
+- Bushfires occur in the summertime
+- Drink spiking is common; so do not leave your drink unattended
+- Bag snatching, pickpocketing occur on beaches, public transport and tourist hot-spots. Do not leave your belongings unattended.
 
 #### _Support or Contact_
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
