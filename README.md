@@ -7,7 +7,7 @@ Portugal, located in South Europe and bordering Spain is a unique country with a
 ## _A perfect spot for young people_
 Portugal is the whole package for young adults who like to travel. For the risktakers and adrenaline seekers, the _Pena Adventura Park_ is the way to go with it's extreme flying fox activity over a vast, beautiful landscape. There is also a variety of different escape rooms and waterparks. But if you're looking for something a little more historical, Portugal has immense diversification of galleries, museums and fortresses you can visit. Contrastingly, if you're just looking for a place to repose or kick-back, beaches such as _Praia da Marinha_ or _Praia de São Rafael_ will have you soaking up the sun for hours. 
 
-![image](https://user-images.githubusercontent.com/73572478/97791866-4adb7580-1c2b-11eb-8746-0026237423a3.png) ![image](https://user-images.githubusercontent.com/73572478/97791895-a1e14a80-1c2b-11eb-889e-312a7112276b.png)
+![image](https://user-images.githubusercontent.com/73572478/97791955-2502a080-1c2c-11eb-9f1d-880cc34d3de7.png)
 
 ## _Precautions and warnings before travelling_
 Like every other holiday destination, precautions have to be taken into account when visiting somewhere new. Better to be safe than sorry.
