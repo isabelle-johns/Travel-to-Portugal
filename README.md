@@ -1,14 +1,14 @@
 ![header-portugal](https://user-images.githubusercontent.com/73572478/97767372-c546bf80-1b6f-11eb-8aa5-55632cab228f.jpg)
 
-## _What does Portugal have to offer?_
+## <u> _What does Portugal have to offer?_
 
 Portugal, located in South Europe and bordering Spain is a unique country with a variety of activities, historical buildings, intangible heritage and spectacular views. Whether it's the indulgent cuisine, pristine beaches or history that date back thousands of years, Portugal will entertain you.
 
-## _A perfect spot for young people_
+## <u> _A perfect spot for young people_
 Portugal is the whole package for young adults who like to travel. 
 
 
-## _Precautions and warnings before travelling_
+## <u> _Precautions and warnings before travelling_
 Like every other holiday destination, precautions have to be taken into account when visiting somewhere new. Better to be safe than sorry.
 
 ### Safety
