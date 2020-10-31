@@ -1,4 +1,4 @@
-![download](https://user-images.githubusercontent.com/73572478/97767242-08546300-1b6f-11eb-8033-72fca4e229b2.jpg)
+
 
 ## _What does Portugal have to offer?_
 
@@ -28,6 +28,8 @@ Like every other holiday destination, precautions have to be taken into account 
 When in trouble, the _Consular Services Charter_ details what the Australian Government can assist you with overseas. If you are seeking consular assistance, you should visit or contact the Australian Embassy in Lisbon. 
 - website; http://www.portugal.embassy.gov.au/lbon/home.html
 - email; ausemb.lisbon@dfat.gov.au
+
+![download](https://user-images.githubusercontent.com/73572478/97767242-08546300-1b6f-11eb-8033-72fca4e229b2.jpg)
 
 ### _Support or Contact_
 
