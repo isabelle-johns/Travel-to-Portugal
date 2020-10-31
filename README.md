@@ -2,9 +2,11 @@
 
 ## _What does Portugal have to offer?_
 
-Portugal, located in South Europe and bordering Spain is a unique country with a variety of activities, heritige sites, historical buildings, intangible heritige and spectacular views.
+Portugal, located in South Europe and bordering Spain is a unique country with a variety of activities, historical buildings, intangible heritage and spectacular views. Whether it's the indulgent cuisine, pristine beaches or history that date back thousands of years, Portugal will entertain you.
 
 ## _A perfect spot for young people_
+Portugal is the whole package for young adults who like to travel. 
+
 
 ## _Precautions and warnings before travelling_
 Like every other holiday destination, precautions have to be taken into account when visiting somewhere new. Better to be safe than sorry.
