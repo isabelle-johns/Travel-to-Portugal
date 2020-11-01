@@ -9,6 +9,7 @@ Portugal is the whole package for young adults who like to travel. For the riskt
 
 ![image](https://user-images.githubusercontent.com/73572478/97791975-58ddc600-1c2c-11eb-852f-05870b030244.png) ![image](https://user-images.githubusercontent.com/73572478/97794417-dd8d0c00-1c4d-11eb-99eb-2b79153622be.png)
 
+![image](https://user-images.githubusercontent.com/73572478/97794470-af5bfc00-1c4e-11eb-9ff9-334a5be291b6.png)
 
 ## _Precautions and warnings before travelling_
 Like every other holiday destination, precautions have to be taken into account when visiting somewhere new. Better to be safe than sorry.
