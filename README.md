@@ -21,7 +21,7 @@ Like every other holiday destination, precautions have to be taken into account 
 #### Local Laws
 - Always carry photo identification or ID                                                                                           
 - Gambling is only legal in licensed venues
-- Posession or use of illegal drugs will attract large fines
+- Possession or use of illegal drugs will attract large fines
 
 #### Health
 - Medical treatment is expensive (no reciprocal healthcare agreement between Portugal and Australia)
@@ -29,8 +29,8 @@ Like every other holiday destination, precautions have to be taken into account 
 
 ## Local Contacts
 When in trouble, the _Consular Services Charter_ details what the Australian Government can assist you with overseas. If you are seeking consular assistance, you should visit or contact the Australian Embassy in Lisbon. 
-- [visit the Portugal Australian Embassy website Here](http://www.portugal.embassy.gov.au/lbon/home.html)
-- [their email] ausemb.lisbon@dfat.gov.au
+- [visit Portugal Australian Embassy website Here](http://www.portugal.embassy.gov.au/lbon/home.html)
+- Their email adress; ausemb.lisbon@dfat.gov.au
 
 ![download](https://user-images.githubusercontent.com/73572478/97767242-08546300-1b6f-11eb-8033-72fca4e229b2.jpg) ![download](https://user-images.githubusercontent.com/73572478/97767418-03dc7a00-1b70-11eb-98b7-c4309794e4bc.jpg)
 
