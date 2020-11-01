@@ -27,7 +27,7 @@ Like every other holiday destination, precautions have to be taken into account 
 - Medical treatment is expensive (no reciprocal healthcare agreement between Portugal and Australia)
 - May need an import permit to get medication by post
 
-#### Local Contacts
+## Local Contacts
 When in trouble, the _Consular Services Charter_ details what the Australian Government can assist you with overseas. If you are seeking consular assistance, you should visit or contact the Australian Embassy in Lisbon. 
 - [visit the Portugal Australian Embassy website Here](http://www.portugal.embassy.gov.au/lbon/home.html)
 - email; ausemb.lisbon@dfat.gov.au
