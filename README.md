@@ -19,8 +19,7 @@ Like every other holiday destination, precautions have to be taken into account 
 - Bag snatching, pickpocketing occur on beaches, public transport and tourist hot-spots. Do not leave your belongings unattended.
 
 ### Local Laws
-- Always carry photo identification or ID                                                                                           ![image](https://user-images.githubusercontent.com/73572478/97791975-58ddc600-1c2c-11eb-852f-05870b030244.png)
-
+- Always carry photo identification or ID                                                                                           
 - Gambling is only legal in licensed venues
 - Posession or use of illegal drugs will attract large fines
 
