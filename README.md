@@ -7,8 +7,6 @@ Portugal, located in South Europe and bordering Spain is a unique country with a
 ## _A perfect spot for young people_
 Portugal is the whole package for young adults who like to travel. For the risktakers and adrenaline seekers, the _Pena Adventura Park_ is the way to go with it's extreme ziplining activity over a vast, beautiful landscape. There is also a variety of different escape rooms and waterparks. But if you're looking for something a little more historical, Portugal has immense diversification of galleries, museums and fortresses you can visit. Contrastingly, if you're just looking for a place to repose or kick-back, beaches such as _Praia da Marinha_ or _Praia de São Rafael_ will have you soaking up the sun for hours. 
 
-![image](https://user-images.githubusercontent.com/73572478/97791975-58ddc600-1c2c-11eb-852f-05870b030244.png) ![image](https://user-images.githubusercontent.com/73572478/97794417-dd8d0c00-1c4d-11eb-99eb-2b79153622be.png)
-
 ![image](https://user-images.githubusercontent.com/73572478/97794470-af5bfc00-1c4e-11eb-9ff9-334a5be291b6.png)
 
 ## _Precautions and warnings before travelling_
@@ -21,7 +19,8 @@ Like every other holiday destination, precautions have to be taken into account 
 - Bag snatching, pickpocketing occur on beaches, public transport and tourist hot-spots. Do not leave your belongings unattended.
 
 ### Local Laws
-- Always carry photo identification or ID
+- Always carry photo identification or ID                                                                                           ![image](https://user-images.githubusercontent.com/73572478/97791975-58ddc600-1c2c-11eb-852f-05870b030244.png)
+
 - Gambling is only legal in licensed venues
 - Posession or use of illegal drugs will attract large fines
 
