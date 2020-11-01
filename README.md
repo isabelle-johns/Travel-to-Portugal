@@ -35,6 +35,6 @@ When in trouble, the _Consular Services Charter_ details what the Australian Gov
 ![download](https://user-images.githubusercontent.com/73572478/97767242-08546300-1b6f-11eb-8033-72fca4e229b2.jpg) ![download](https://user-images.githubusercontent.com/73572478/97767418-03dc7a00-1b70-11eb-98b7-c4309794e4bc.jpg)
 
 
-#### _Support or Contact_
+## _Support or Contact_
 
 Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
