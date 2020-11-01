@@ -1,5 +1,25 @@
 ![header-portugal](https://user-images.githubusercontent.com/73572478/97767372-c546bf80-1b6f-11eb-8aa5-55632cab228f.jpg)
 
+<div class="tabcontrol container">
+    <ul class="tabcontrol tabs" style="{{include.headerstyle}}">
+        {% for tab in include.tabs %}
+            <li class="tabcontrol tab {% if {tab[1].active %}active{% endif %}" data-name="{{tab[1].name}}" data-target="tab_{{include.id}}" data-source="{{include.id}}__{{tab[1].source}}">
+                {{tab[1].title}}
+            </li>
+            {% if tab[1].active %}
+                {% assign defaultsource = tab[1].source %}
+            {% endif %}
+            {% if tab[1].content %}
+            <div id="{{include.id}}__{{tab[1].source}}" class="hidden">
+                {{tab[1].content | markdownify }}
+            </div>
+            {% endif %}
+        {% endfor %}
+    </ul>
+    <div id="tab_{{include.id}}" class="tabcontrol body {{include.bodyclass}}" style="{{include.bodystyle}}" data-defaultsource="{{include.id}}__{{defaultsource}}">
+    </div>
+</div>
+
 ## _What does Portugal have to offer?_
 
 Portugal, located in South Europe and bordering Spain is a unique country with a variety of activities, historical buildings, intangible heritage and spectacular views. Whether it's the indulgent cuisine, pristine beaches or history that date back thousands of years, Portugal will not fail to entertain you.
