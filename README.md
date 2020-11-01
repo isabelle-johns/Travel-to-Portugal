@@ -20,6 +20,25 @@
     </div>
 </div>
 
+tabs: 
+    tab1:
+        name: foo
+        title: Page One
+        source: source1
+    tab2:
+        name: bar
+        title: Page Two
+        source: source2
+        content: >
+            ## Headline
+
+            A Link: [link](https://foo.bar.org)
+    tab3:
+        name: baz
+        title: Page Three
+        active: 1
+        source: source3
+
 ## _What does Portugal have to offer?_
 
 Portugal, located in South Europe and bordering Spain is a unique country with a variety of activities, historical buildings, intangible heritage and spectacular views. Whether it's the indulgent cuisine, pristine beaches or history that date back thousands of years, Portugal will not fail to entertain you.
