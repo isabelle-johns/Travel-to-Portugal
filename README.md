@@ -14,7 +14,7 @@ Like every other holiday destination, precautions have to be taken into account 
 
 #### Safety
 
-- Bushfires occur in the summertime
+- Bushfires occur in the summertime, so monitor the news and local media if you're travelling at that time
 - Drink spiking is common; so do not leave your drink unattended
 - Bag snatching, pickpocketing occur on beaches, public transport and tourist hot-spots. Do not leave your belongings unattended.
 
@@ -22,6 +22,7 @@ Like every other holiday destination, precautions have to be taken into account 
 - Always carry photo identification or ID                                                                                           
 - Gambling is only legal in licensed venues
 - Possession or use of illegal drugs will attract large fines
+- If you are a victim of crime, or have gotten yourself in some sort of unwanted trouble, contact [APAV](http://apav.pt/mihy/index.php/welcome)
 
 #### Health
 - Medical treatment is expensive (no reciprocal healthcare agreement between Portugal and Australia)
