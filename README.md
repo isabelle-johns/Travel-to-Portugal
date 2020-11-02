@@ -10,7 +10,7 @@ Portugal is the whole package for young adults who like to travel. For the riskt
 ![image](https://user-images.githubusercontent.com/73572478/97794470-af5bfc00-1c4e-11eb-9ff9-334a5be291b6.png)
 
 ## _Festivals_
-Portugal, being a historically Catholic country, celebrates many saints all year round with music, great food and a warm and welcoming environment. But, they aren't the only festivals and occasions that are celebrated - Carnival and Epiphany are very colourful and picturesque festivals you have to experience and ce;ebrate first-hand.
+Portugal, being a historically Catholic country, celebrates many saints all year round with music, great food and a warm and welcoming environment. But, they aren't the only festivals and occasions that are celebrated - Carnival and Epiphany are very colourful and picturesque festivals you have to experience and celebrate first-hand.
 
 ![image](https://user-images.githubusercontent.com/73572478/97861671-3ba61600-1d58-11eb-9e2a-455357194325.png)
 
