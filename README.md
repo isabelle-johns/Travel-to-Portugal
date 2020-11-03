@@ -12,6 +12,9 @@ Portugal is the whole package for young adults who like to travel. For the riskt
 ## _Festivals_
 Portugal, being a historically Catholic country, celebrates many saints all year round with music, great food and a warm and welcoming environment. But, they aren't the only festivals and occasions that are celebrated - Carnival and Epiphany are very colourful and picturesque festivals you have to experience and celebrate first-hand.
 
+## _Tours_
+_Portugal City & Surf_ is a 9-day tour for ages 18-35 that covers Lisbon, Fatima, Coimbra, Porto, Aveiro, Obidos, Santa Cruz, Evora and Lagos. This tour includes a surfing and yoga camp, and the 
+
 ![image](https://user-images.githubusercontent.com/73572478/97861671-3ba61600-1d58-11eb-9e2a-455357194325.png)
 
 ## _Precautions and warnings before travelling_
