@@ -63,6 +63,5 @@ Check out our [documentation](https://docs.github.com/categories/github-pages-ba
     window.location(url);
     }
     </script>
-    
-    <a href="URL" target="_blank"><h2><Sub heading></h2></a>
+  
 
