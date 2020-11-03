@@ -25,8 +25,9 @@ Like every other holiday destination, precautions have to be taken into account 
 - Bushfires occur in the summertime, so monitor the news and local media if you're travelling at that time
 - Drink spiking is common; so do not leave your drink unattended
 - Bag snatching, pickpocketing occur on beaches, public transport and tourist hot-spots. Do not leave your belongings unattended.
+
 #### Local Laws
-- Always carry photo identification or ID                                                                                           
+- Always carry photo identification or ID                    ![image](https://user-images.githubusercontent.com/73572478/98046808-f3354800-1e7e-11eb-85cc-9c5437b0473d.png)                                                                       
 - Gambling is only legal in licensed venues
 - Possession or use of illegal drugs will attract large fines
 - If you are a victim of crime, or have gotten yourself in some sort of unwanted trouble, contact [APAV](http://apav.pt/mihy/index.php/welcome)
