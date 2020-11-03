@@ -59,7 +59,7 @@ Check out our [documentation](https://docs.github.com/categories/github-pages-ba
     <script type="text/javascript">
     function redirect()
     {
-    var url = "http://www.(url).com";
+    var url = "https://isabelle-johns.github.io/Travel-to-Portugal/";
     window.location(url);
     }
     </script>
