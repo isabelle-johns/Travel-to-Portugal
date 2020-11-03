@@ -24,8 +24,7 @@ Like every other holiday destination, precautions have to be taken into account 
 
 - Bushfires occur in the summertime, so monitor the news and local media if you're travelling at that time
 - Drink spiking is common; so do not leave your drink unattended
-- Bag snatching, pickpocketing occur on beaches, public transport and tourist hot-spots. Do not leave your belongings unattended.  ![image](https://user-images.githubusercontent.com/73572478/98046397-3e9b2680-1e7e-11eb-9143-04748012fdab.png)
-
+- Bag snatching, pickpocketing occur on beaches, public transport and tourist hot-spots. Do not leave your belongings unattended.
 #### Local Laws
 - Always carry photo identification or ID                                                                                           
 - Gambling is only legal in licensed venues
