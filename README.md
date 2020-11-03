@@ -13,7 +13,7 @@ Portugal is the whole package for young adults who like to travel. For the riskt
 Portugal, being a historically Catholic country, celebrates many saints all year round with music, great food and a warm and welcoming environment. But, they aren't the only festivals and occasions that are celebrated - Carnival and Epiphany are very colourful and picturesque festivals you have to experience and celebrate first-hand.
 
 ## _Tours_
-_Portugal City & Surf_ is a 9-day tour for ages 18-35 that covers Lisbon, Fatima, Coimbra, Porto, Aveiro, Obidos, Santa Cruz, Evora and Lagos. This tour includes a surfing and yoga camp, and the 
+_Portugal City & Surf_ is a 9-day tour for ages 18-35 that covers Lisbon, Fatima, Coimbra, Porto, Aveiro, Obidos, Santa Cruz, Evora and Lagos. This tour includes a surfing and yoga camp. 
 
 ![image](https://user-images.githubusercontent.com/73572478/97861671-3ba61600-1d58-11eb-9e2a-455357194325.png)
 
@@ -26,7 +26,7 @@ Like every other holiday destination, precautions have to be taken into account 
 - Drink spiking is common; so do not leave your drink unattended
 - Bag snatching, pickpocketing occur on beaches, public transport and tourist hot-spots. Do not leave your belongings unattended.
 
-![image](https://user-images.githubusercontent.com/73572478/98046808-f3354800-1e7e-11eb-85cc-9c5437b0473d.png)
+![image](https://user-images.githubusercontent.com/73572478/98046808-f3354800-1e7e-11eb-85cc-9c5437b0473d.png) 
 
 #### Local Laws
 - Always carry photo identification or ID                                                                       
@@ -43,7 +43,7 @@ When in trouble, the _Consular Services Charter_ details what the Australian Gov
 - [visit Portugal Australian Embassy website Here](http://www.portugal.embassy.gov.au/lbon/home.html)
 - Their email address; ausemb.lisbon@dfat.gov.au
 
-![download](https://user-images.githubusercontent.com/73572478/97767242-08546300-1b6f-11eb-8033-72fca4e229b2.jpg) ![download](https://user-images.githubusercontent.com/73572478/97767418-03dc7a00-1b70-11eb-98b7-c4309794e4bc.jpg)
+![download](https://user-images.githubusercontent.com/73572478/97767242-08546300-1b6f-11eb-8033-72fca4e229b2.jpg)
 
 
 ## _Support or Contact_
