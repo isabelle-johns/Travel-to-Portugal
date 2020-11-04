@@ -21,7 +21,7 @@ _"Really well organized and the cities were beautiful!"_ - one of the tourists' 
 
 
 ### _For More Information Regarding Safety and Precautions_
-<a href="https://isabelle-johns.github.io/Portugal/" title="Precautions and Warnings">Precautions and Warnings</a>
+### <a href="https://isabelle-johns.github.io/Portugal/" title="Precautions and Warnings">Precautions and Warnings</a>
 
 
 ### _Support or Contact_
