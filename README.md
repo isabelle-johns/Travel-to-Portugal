@@ -17,32 +17,6 @@ _Portugal City & Surf_ is a 9-day tour for ages 18-35 that covers Lisbon, Fatima
 
 ![image](https://user-images.githubusercontent.com/73572478/97861671-3ba61600-1d58-11eb-9e2a-455357194325.png)
 
-## _Precautions and warnings before travelling_
-Like every other holiday destination, precautions have to be taken into account when visiting somewhere new. Better to be safe than sorry.
-
-#### Safety
-
-- Bushfires occur in the summertime, so monitor the news and local media if you're travelling at that time
-- Drink spiking is common; so do not leave your drink unattended
-- Bag snatching, pickpocketing occur on beaches, public transport and tourist hot-spots. Do not leave your belongings unattended.
-
-![image](https://user-images.githubusercontent.com/73572478/98046808-f3354800-1e7e-11eb-85cc-9c5437b0473d.png) 
-
-#### Local Laws
-- Always carry photo identification or ID                                                                       
-- Gambling is only legal in licensed venues
-- Possession or use of illegal drugs will attract large fines
-- If you are a victim of crime, or have gotten yourself in some sort of unwanted trouble, contact [APAV](http://apav.pt/mihy/index.php/welcome)
-
-#### Health
-- Medical treatment is expensive (no reciprocal healthcare agreement between Portugal and Australia)
-- May need an import permit to get medication by post
-
-## _Local Contacts_
-When in trouble, the _Consular Services Charter_ details what the Australian Government can assist you with overseas. If you are seeking consular assistance, you should visit or contact the Australian Embassy in Lisbon. 
-- [visit Portugal Australian Embassy website Here](http://www.portugal.embassy.gov.au/lbon/home.html)
-- Their email address; ausemb.lisbon@dfat.gov.au
-
 ![download](https://user-images.githubusercontent.com/73572478/97767242-08546300-1b6f-11eb-8033-72fca4e229b2.jpg) ![image](https://user-images.githubusercontent.com/73572478/98049337-94be9880-1e83-11eb-8bfe-dea5411ff4c5.png)
 
 
