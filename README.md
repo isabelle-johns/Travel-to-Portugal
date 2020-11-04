@@ -20,7 +20,7 @@ _"Really well organized and the cities were beautiful!"_ - one of the tourists' 
 ![image](https://user-images.githubusercontent.com/73572478/97861671-3ba61600-1d58-11eb-9e2a-455357194325.png)
 
 
-## _For More Information Regarding Safety and Precautions_
+### _For More Information Regarding Safety and Precautions_
 <a href="https://isabelle-johns.github.io/Portugal/" title="Precautions and Warnings">Precautions and Warnings</a>
 
 
