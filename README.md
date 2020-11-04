@@ -20,13 +20,10 @@ _Portugal City & Surf_ is a 9-day tour for ages 18-35 that covers Lisbon, Fatima
 ![download](https://user-images.githubusercontent.com/73572478/97767242-08546300-1b6f-11eb-8033-72fca4e229b2.jpg) ![image](https://user-images.githubusercontent.com/73572478/98049337-94be9880-1e83-11eb-8bfe-dea5411ff4c5.png)
 
 
+### More Information
+<a href="https://isabelle-johns.github.io/Portugal/" title="Precautions and Warnings">Precautions and Warnings</a>
+
 
 ## _Support or Contact_
 
 Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
-
-
-
-### _Travel to Portugal_
-<a href="https://isabelle-johns.github.io/Portugal/" title="Precautions and Warnings">Precautions and Warnings</a>
-
