@@ -54,15 +54,5 @@ Check out our [documentation](https://docs.github.com/categories/github-pages-ba
 
 
 ### _Travel to Portugal_
-   <body>
-    <button name="redirect" onClick="redirect()">
-
-    <script type="text/javascript">
-    function redirect()
-    {
-    var url = "https://isabelle-johns.github.io/Perfect-For-Young-People/";
-    window.location(url);
-    }
-    </script>
-  
+<a href="https://<isabelle-johns>.github.io/<Perfect-For-Young-People>/about.html" title="About Me">About Me</a>
 
