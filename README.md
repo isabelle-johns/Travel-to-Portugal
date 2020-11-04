@@ -13,7 +13,9 @@ Portugal is the whole package for young adults who like to travel. For the riskt
 Portugal, being a historically Catholic country, celebrates many saints all year round with music, great food and a warm and welcoming environment. But, they aren't the only festivals and occasions that are celebrated - Carnival and Epiphany are very colourful and picturesque festivals you have to experience and celebrate first-hand.
 
 ## _Tours_
-_Portugal City & Surf_ is a 9-day tour for ages 18-35 that covers Lisbon, Fatima, Coimbra, Porto, Aveiro, Obidos, Santa Cruz, Evora and Lagos. This tour includes a surfing and yoga camp. 
+Portugal hosts many tours for travelling all over the country in coaches, cars, planes and e-bikes. Firstly, _Portugal City & Surf_ is a 9-day tour for ages 18-35 that covers Santa Cruz, Lisbon and 7 other destinations over the span of 9 days. This tour includes a guided surfing and yoga camp and accomodation for up to 24 people in a group. A second tour that is quite popular amongst the young tourists is the Spain and Portugal Group Rail Tour for ages 18-35. In this tour, you travel all over the country and even to Barcelona in Spain for two nights. 
+
+_"Really well organized and the cities were beautiful!" - one of the tourists' reviews. 
 
 ![image](https://user-images.githubusercontent.com/73572478/97861671-3ba61600-1d58-11eb-9e2a-455357194325.png)
 
