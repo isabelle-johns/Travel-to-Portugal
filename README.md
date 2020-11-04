@@ -15,7 +15,7 @@ Portugal, being a historically Catholic country, celebrates many saints all year
 ## _Tours_
 Portugal hosts many tours for travelling all over the country in coaches, cars, planes and e-bikes. Firstly, _Portugal City & Surf_ is a 9-day tour for ages 18-35 that covers Santa Cruz, Lisbon and 7 other destinations over the span of 9 days. This tour includes a guided surfing and yoga camp and accomodation for up to 24 people in a group. A second tour that is quite popular amongst the young tourists is the Spain and Portugal Group Rail Tour for ages 18-35. In this tour, you travel all over the country and even to Barcelona in Spain for two nights. 
 
-_"Really well organized and the cities were beautiful!" - one of the tourists' reviews. 
+_"Really well organized and the cities were beautiful!"_ - one of the tourists' reviews. 
 
 ![image](https://user-images.githubusercontent.com/73572478/97861671-3ba61600-1d58-11eb-9e2a-455357194325.png)
 
