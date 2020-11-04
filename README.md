@@ -60,7 +60,7 @@ Check out our [documentation](https://docs.github.com/categories/github-pages-ba
     <script type="text/javascript">
     function redirect()
     {
-    var url = "https://isabelle-johns.github.io/Travel-to-Portugal/";
+    var url = "https://isabelle-johns.github.io/Perfect-For-Young-People/";
     window.location(url);
     }
     </script>
