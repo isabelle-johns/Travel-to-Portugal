@@ -54,5 +54,5 @@ Check out our [documentation](https://docs.github.com/categories/github-pages-ba
 
 
 ### _Travel to Portugal_
-<a href="https://<isabelle-johns>.github.io/<Perfect-For-Young-People>/about.html" title="About Me">About Me</a>
+<a href="https://<isabelle-johns>.github.io/<Perfect-For-Young-People>/about.html" title="Perfect-For-Young-People">Perfect-For-Young-People</a>
 
